@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/statusEdit" android:title="Edit"/>
+    <item android:id="@+id/statusCancel" android:title="Cancel"/>
+    <item android:id="@+id/statusCompleted" android:title="Completed"/>
+
+</menu>
